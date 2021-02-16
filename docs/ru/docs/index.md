@@ -6,7 +6,7 @@
   <a href="https://fastapi.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI"></a>
 </p>
 <p align="center">
-    <em>FastAPI framework, high performance, easy to learn, fast to code, ready for production</em>
+    <em>FastAPI — высокопроизводительный, простой в изучении, быстрый в разработке, готовый к работе</em>
 </p>
 <p align="center">
 <a href="https://travis-ci.com/tiangolo/fastapi" target="_blank">
@@ -22,27 +22,26 @@
 
 ---
 
-**Documentation**: <a href="https://fastapi.tiangolo.com" target="_blank">https://fastapi.tiangolo.com</a>
+**Документация**: <a href="https://fastapi.tiangolo.com" target="_blank">https://fastapi.tiangolo.com</a>
 
-**Source Code**: <a href="https://github.com/tiangolo/fastapi" target="_blank">https://github.com/tiangolo/fastapi</a>
+**Исходный код**: <a href="https://github.com/tiangolo/fastapi" target="_blank">https://github.com/tiangolo/fastapi</a>
 
 ---
 
-FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+FastAPI — это современный и быстрый веб-фреймворк для создания API на Python 3.6+, основанный на стандартной аннотации типов Python.
 
-The key features are:
+Преимущества:
 
-* **Fast**: Very high performance, on par with **NodeJS** and **Go** (thanks to Starlette and Pydantic). [One of the fastest Python frameworks available](#performance).
+* **Скорость**: Очень высокая производительность на уровне **NodeJS** и **Go** (благодаря Starlette и Pydantic). [Один из самых быстрых Python фреймворков](#performance).
+* **Быстрая разработка**: Увеличение скорости разработки новой функциональности на 200% или 300%. *
+* **Меньше багов**: Уменьшение количества ошибок вызванных разработчиком примерно на 40%. *
+* **Интуитивный**: Отличная поддержка редактора. <abbr title="also known as auto-complete, autocompletion, IntelliSense">Автодополнение</abbr> везде. Меньше времени на отладку.
+* **Простой**: Разработан, что бы быть простым в использовании и обучении. Меньше времени на чтение документации.
+* **Краткий**: Минимизируйте дублирование кода. Уменьшите количество багов.
+* **Надёжный**: Получите готовый к работе код с автоматической и интерактивной документацией.
+* **Поддержка стандартов**: Основан (и полностью совместим) со стандартами APIs: <a href="https://github.com/OAI/OpenAPI-Specification" class="external-link" target="_blank">OpenAPI</a> (ранее известный как Swagger) и <a href="https://json-schema.org/" class="external-link" target="_blank">JSON Схема</a>.
 
-* **Fast to code**: Increase the speed to develop features by about 200% to 300%. *
-* **Fewer bugs**: Reduce about 40% of human (developer) induced errors. *
-* **Intuitive**: Great editor support. <abbr title="also known as auto-complete, autocompletion, IntelliSense">Completion</abbr> everywhere. Less time debugging.
-* **Easy**: Designed to be easy to use and learn. Less time reading docs.
-* **Short**: Minimize code duplication. Multiple features from each parameter declaration. Fewer bugs.
-* **Robust**: Get production-ready code. With automatic interactive documentation.
-* **Standards-based**: Based on (and fully compatible with) the open standards for APIs: <a href="https://github.com/OAI/OpenAPI-Specification" class="external-link" target="_blank">OpenAPI</a> (previously known as Swagger) and <a href="https://json-schema.org/" class="external-link" target="_blank">JSON Schema</a>.
-
-<small>* estimation based on tests on an internal development team, building production applications.</small>
+<small>* оценки основаны на тестах внутренней группы разработчиков, создающих приложения готовые к использованию.</small>
 
 ## Gold Sponsors
 
